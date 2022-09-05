@@ -1,0 +1,18 @@
+{
+  "name": "vitepress",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "description": "doc file",
+  "main": "index.js",
+  "author": "clarity",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
